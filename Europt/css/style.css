@@ -1,0 +1,42 @@
+h1{
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
+  color: pink;
+}
+@Europe (max-width:300px)
+
+  body {
+    font-famyly: sans-serfi;
+  }
+
+  p {
+    float: left;
+    background-color: pink;
+  }
+
+  img.main {
+    float: left;
+    width: 130px;
+
+  }
+
+
+
+
+
+
+.column{
+  border: 2px solid purple;
+  padding: 4px;
+  margin: 12px;
+  background-color: gray;
+  image-orientation: float: left;
+}
+
+.column1{
+  font-family: cursive;
+  text-align: center;
+  border-color: red;
+  background-color: pink;
+}
