@@ -15,7 +15,8 @@ h1{
     background-color: pink;
   }
 
-  img.main {
+  .main {
+   display:inline-block;
     float: left;
     width: 130px;
 
@@ -27,16 +28,18 @@ h1{
 
 
 .column{
-  border: 2px solid purple;
+  border: solid thick purple;
   padding: 4px;
-  margin: 12px;
+
   background-color: gray;
   image-orientation: float: left;
+  border-radius: 10px;
 }
 
 .column1{
   font-family: cursive;
   text-align: center;
-  border-color: red;
+  border: solid thick red;
+  border-radius: 10px;
   background-color: pink;
 }
